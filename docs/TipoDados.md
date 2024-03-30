@@ -24,36 +24,47 @@ Por exemplo, os tipos de dados numéricos incluem **int**, **decimal**, e **mone
 
 <br>
 
-# Documentção oficial da Microsoft
+---
+
+<br>
+
+##  Documentação oficial da Microsoft
 
 -[SQL Server Data types (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql)
 
 
-* Dados númericos
+* **Dados númericos**
     - [Tipos de dados do SQL Server (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql)
     - [int, bigint, smallint, and tinyint (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/data-types/int-bigint-smallint-and-tinyint-transact-sql)
     - [decimal and numeric (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/data-types/decimal-and-numeric-transact-sql)
     - [float and real (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/data-types/float-and-real-transact-sql)
     - [Precision, scale, and length (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/data-types/precision-scale-and-length-transact-sql)
 
+    <br>
 
-* Dados binários
- - [binary and varbinary (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/data-types/binary-and-varbinary-transact-sql)
+* **Dados binários**
+
+    - [binary and varbinary (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/data-types/binary-and-varbinary-transact-sql)
 
 
-* Caracter e conjunto de caracteres
+    <br>
+
+
+* **Caracter e conjunto de caracteres**
 
     - [char and varchar (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/data-types/char-and-varchar-transact-sql)
     - [String Functions](https://learn.microsoft.com/en-us/sql/odbc/reference/appendixes/string-functions)
     - [LIKE (Transact-SQL) - SQL Server](https://learn.microsoft.com/en-us/sql/t-sql/language-elements/like-transact-sql)
     - [Collation and Unicode support](https://learn.microsoft.com/en-us/sql/relational-databases/collations/)
 
+    <br>
 
-* Data e hora
+* **Data e hora**
     - [Date and time data types and functions (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/functions/date-and-time-data-types-and-functions-transact-sql)
 
+    <br>
 
-* Conversão
+* **Conversão**
     - [Data type precedence (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/data-types/data-type-precedence-transact-sql)
     - [CAST and CONVERT (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/functions/cast-and-convert-transact-sql)
     - [PARSE (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/functions/parse-transact-sql)

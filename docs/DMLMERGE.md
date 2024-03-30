@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Linguagem de manipulação de dados
+title: MERGE Statement
 nav_order: 7.3
 parent: 'Linguagem de manipulação de dados'
 ---
@@ -176,7 +176,11 @@ Tabela de destino do exemplo 2 depois do merge.
 
 <br>
 
-# Documentção oficial da Microsoft
+---
+
+<br>
+
+##  Documentação oficial da Microsoft
 
 - [MERGE (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/statements/merge-transact-sql)
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: INSERT Statement
+title: UPDATE Statement
 nav_order: 7.2
 parent: 'Linguagem de manipulação de dados'
 ---
 
 
-# INSERT Statement
+# UPDATE Statement
 {: .no_toc }
 
 
@@ -22,6 +22,10 @@ WHERE condição;
 
 <br>
 
-# Documentção oficial da Microsoft
+---
+
+<br>
+
+##  Documentação oficial da Microsoft
 
 - [UPDATE (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/queries/update-transact-sql)

@@ -1,21 +1,11 @@
-title: Fundamento de SQL com T-SQL
-description: Introdução aos Fundamentos de SQL com Transact-SQL.
+title: Fundamentos de SQL com T-SQL
+description: Este cursos é uma introdução aos fundamentos de SQL com Transact-SQL no Microsoft SQL Server.
 theme: just-the-docs
 
-url: https://rramoscabral.github.io/Fundamentos-de-SQL/
+# url: https://rramoscabral.github.io/Fundamentos-de-SQL/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
-
-title: Fundamento de SQL com T-SQL
-description: Este cursos é uma formação orientada para a utilização da linguagem Transact-SQL no Microsoft SQL Server.
-theme: just-the-docs
-
-url: https://rramoscabral.github.io/Fundamentos-de-SQL
-
-aux_links:
-  "Fundamento de SQL com T-SQL": 
+  "Fundamentos de SQL com T-SQL": 
     - "https://rramoscabral.github.io/Fundamentos-de-SQL"
 callouts_level: quiet # or loud
 callouts:

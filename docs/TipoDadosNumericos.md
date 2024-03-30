@@ -24,63 +24,14 @@ Para mais informações detalhadas sobre os tipos de dados numéricos no SQL Ser
 
 <br>
 
-# Documentção oficial da Microsoft
+---
+
+<br>
+
+##  Documentação oficial da Microsoft
 
 - [Tipos de dados do SQL Server (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql)
 - [int, bigint, smallint, and tinyint (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/data-types/int-bigint-smallint-and-tinyint-transact-sql)
 - [decimal and numeric (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/data-types/decimal-and-numeric-transact-sql)
 - [float and real (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/data-types/float-and-real-transact-sql)
 - [Precision, scale, and length (Transact-SQL)](https://learn.microsoft.com/en-us/sql/t-sql/data-types/precision-scale-and-length-transact-sql)
-
-
-
-Binary string data types
-------------------------
-
-binary and varbinary (Transact-SQL) 
-https://learn.microsoft.com/en-us/sql/t-sql/data-types/binary-and-varbinary-transact-sql
-
-
-
-Data type precedence 
---------------------
-
-Data type precedence (Transact-SQL)
-https://learn.microsoft.com/en-us/sql/t-sql/data-types/data-type-precedence-transact-sql
-
-CAST and CONVERT (Transact-SQL) https://learn.microsoft.com/en-us/sql/t-sql/functions/cast-and-convert-transact-sql
-
-
-
-Character Data Types
---------------------
-
-char and varchar (Transact-SQL)
-https://learn.microsoft.com/en-us/sql/t-sql/data-types/char-and-varchar-transact-sql
-
-Collation and Unicode support
-https://learn.microsoft.com/en-us/sql/relational-databases/collations/collation-and-unicode-support
-
-
-Working with Character Data
----------------------------
-
-String Functions
-https://learn.microsoft.com/en-us/sql/odbc/reference/appendixes/string-functions
-
-LIKE (Transact-SQL) - SQL Server
-https://learn.microsoft.com/en-us/sql/t-sql/language-elements/like-transact-sql
-
-
-
-Date and Time Data Types
-------------------------
-
-Date and time data types and functions (Transact-SQL)
-https://learn.microsoft.com/en-us/sql/t-sql/functions/date-and-time-data-types-and-functions-transact-sql
-
-PARSE (Transact-SQL)
-https://learn.microsoft.com/en-us/sql/t-sql/functions/parse-transact-sql
-
-TRY_PARSE (Transact-SQL)
-https://learn.microsoft.com/en-us/sql/t-sql/functions/try-parse-transact-sql

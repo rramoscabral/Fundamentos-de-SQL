@@ -24,7 +24,11 @@ A compreensão profunda dos joins e sua aplicação correta são habilidades ess
 
 <br>
 
-# Documentção oficial da Microsoft
+---
+
+<br>
+
+##  Documentação oficial da Microsoft
 
 - [Joins (SQL Server)](https://learn.microsoft.com/en-us/sql/relational-databases/performance/joins)
 

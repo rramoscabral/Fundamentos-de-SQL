@@ -26,7 +26,11 @@ Em resumo, a DML no T-SQL é uma ferramenta poderosa para a manipulação de dad
 
 <br>
 
-# Documentção oficial da Microsoft
+---
+
+<br>
+
+##  Documentação oficial da Microsoft
 
 - [Transact-SQL statements](https://learn.microsoft.com/en-us/sql/t-sql/statements/statements)
 

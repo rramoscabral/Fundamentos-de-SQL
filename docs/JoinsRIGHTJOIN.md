@@ -1,6 +1,6 @@
 ---
-title: Layout
-layout: RIGHT JOIN (ou RIGHT OUTER JOIN)
+title: RIGHT JOIN (ou RIGHT OUTER JOIN)
+layout: default
 nav_order: 4.6
 parent: 'Joins'
 ---
