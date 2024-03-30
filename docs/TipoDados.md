@@ -11,13 +11,15 @@ has_children: true
 {: .no_toc }
 
 
-No Microsoft SQL Server, os tipos de dados são fundamentais para definir a natureza dos dados que podem ser armazenados em uma tabela. 
+No Microsoft SQL Server, os tipos de dados são fundamentais para definir a natureza dos dados que podem ser armazenados numa tabela. 
 
 O T-SQL, a linguagem de consulta transacional do SQL Server, oferece uma variedade de tipos de dados que ajudam a garantir a precisão e a eficiência do armazenamento de dados. 
 
-Cada tipo de dado tem suas próprias propriedades e limitações, e a escolha correta é crucial para o desempenho e a integridade da base de dados. Ao projetar uma base de dados, é importante considerar cuidadosamente quais tipos de dados são mais adequados para cada coluna, levando em conta não apenas o tipo de dado, mas também o tamanho máximo esperado, a precisão necessária e o comportamento esperado das consultas e operações que serão realizadas nesses dados.
+Cada tipo de dado tnas suas próprias propriedades e limitações, e a escolha correta é crucial para o desempenho e a integridade da base de dados. Ao projetar uma base de dados, é importante considerar cuidadosamente quais tipos de dados são mais adequados para cada coluna, levando em conta não apenas o tipo de dado, mas também o tamanho máximo esperado, a precisão necessária e o comportamento esperado das consultas e operações que serão realizadas nesses dados.
 
-Por exemplo, os tipos de dados numéricos incluem **int**, **decimal**, e **money**, que são adequados para armazenar números inteiros, valores decimais com precisão fixa e dados monetários, respetivamente. Para texto, temos **varchar** para texto de comprimento variável e **nvarchar** para texto Unicode. Além disso, **date**, **time**, **datetime2**, e **datetimeoffset** são usados para armazenar informações de data e hora com diferentes níveis de precisão e detalhes. Há também tipos de dados especializados como **xml** para armazenar dados XML e **varbinary** para armazenar dados binários. 
+Por exemplo, os tipos de dados numéricos incluem **int**, **decimal**, e **money**, que são adequados para armazenar números inteiros, valores decimais com precisão fixa e dados monetários, respetivamente. Para texto, temos **varchar** para texto de comprimento variável e **nvarchar** para texto Unicode. 
+
+O **date**, **time**, **datetime2**, e **datetimeoffset** são utilizados para armazenar informações de data e hora com diferentes níveis de precisão e detalhes. Há também tipos de dados especializados como **xml** para armazenar dados XML e **varbinary** para armazenar dados binários. 
 
 
 

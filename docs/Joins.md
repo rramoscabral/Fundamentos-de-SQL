@@ -14,7 +14,7 @@ Joins em T-SQL são fundamentais para consultar e combinar dados de diferentes t
 
 É crucial entender a lógica por trás de cada tipo de join para utilizá-los eficientemente, garantindo que as consultas sejam precisas e o desempenho da base de dados seja otimizado. 
 
-Além disso, é importante estar atento à sintaxe correta e às práticas recomendadas ao escrever consultas T-SQL, como a utilização de aliases para tabelas e a especificação clara das chaves de junção para evitar ambiguidades e possíveis erros de interpretação pelo SQL Server. 
+É importante estar atento à sintaxe correta e às práticas recomendadas ao escrever consultas T-SQL, como a utilização de aliases para tabelas e a especificação clara das chaves de junção para evitar ambiguidades e possíveis erros de interpretação pelo SQL Server. 
 
 A compreensão profunda dos joins e sua aplicação correta são habilidades essenciais para qualquer desenvolvedor ou administrador de bases de dados que trabalhe com o Microsoft SQL Server.
 

@@ -2,6 +2,9 @@
 
 Repositório de material complementar e recursos do curso ‘Fundamentos de SQL’ ministrado por Ricardo Cabral.
 
+Este cursos é uma introdução aos fundamentos de SQL com Transact-SQL no Microsoft SQL Server.
+
+<br/>
 
 <!-- ---  -->
 

@@ -20,7 +20,7 @@ Já o **DELETE** é utilizado para remover dados de uma base de dados, e deve se
 
 Além destes, o T-SQL também suporta comandos adicionais de DML, como **MERGE**, que permite combinar operações de inserção, atualização e eliminação numa única instrução, otimizando assim as transações e a manutenção de dados. 
 
-É importante notar que, ao trabalhar com DML no T-SQL, deve-se sempre considerar o impacto das operações nos dados e na performance da base de dados, bem como implementar práticas seguras de programação para proteger contra injeções SQL e outros tipos de vulnerabilidades de segurança.
+É importante notar que, ao trabalhar com DML no T-SQL, deve-se sempre considerar o impacto das operações nos dados e no desempenho da base de dados, bem como implementar práticas seguras de programação para proteger contra injeções SQL e outros tipos de vulnerabilidades de segurança.
 
 Em resumo, a DML no T-SQL é uma ferramenta poderosa para a manipulação de dados, oferecendo aos desenvolvedores e administradores de bases de dados a capacidade de gerir eficientemente os dados e garantir a sua integridade e segurança. Ao compreender e utilizar corretamente os comandos DML, é possível realizar uma vasta gama de operações de dados, desde as mais simples às mais complexas, com precisão e eficácia.
 

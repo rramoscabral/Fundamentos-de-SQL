@@ -12,14 +12,16 @@ Transact-SQL, ou T-SQL, é uma extensão proprietária da linguagem SQL (Structu
 
 O T-SQL expande o SQL padrão e foi criado para adicionar funcionalidades procedimentais, como variáveis locais, controlo de fluxo e funções de apoio para processamento de strings, datas e matemáticas, que não estavam presentes no SQL padrão. 
 
-Esta linguagem é central para a utilização do Microsoft SQL Server, pois todas as aplicações que comunicam com uma instância do SQL Server fazem-no enviando instruções T-SQL para o servidor. Além disso, o T-SQL é essencial para a criação de procedimentos armazenados, que são rotinas executáveis no lado do servidor e permitem a passagem de parâmetros, otimizando a performance e a segurança das bases de dados. 
+Esta linguagem é central para a utilização do Microsoft SQL Server, pois todas as aplicações que comunicam com uma instância do SQL Server fazem-no enviando instruções T-SQL para o servidor.
+
+O T-SQL é essencial para a criação de procedimentos armazenados, que são rotinas executáveis no lado do servidor e permitem a passagem de parâmetros, otimizando o desempenho e a segurança das bases de dados. 
 
 A familiaridade com o T-SQL é, portanto, fundamental para qualquer profissional que trabalhe com bases de dados da Microsoft, sendo uma habilidade valiosa no mundo da análise de dados, engenharia de dados e administração de bases de dados.
 
-Sua origem está ligada à necessidade de uma linguagem mais poderosa para a gestão de base de dados da Microsoft, e hoje, é uma ferramenta indispensável para profissionais da área de dados que trabalham com produtos da Microsoft. 
+A sua origem está ligada à necessidade de uma linguagem mais poderosa para a gestão de base de dados da Microsoft, e hoje, é uma ferramenta indispensável para profissionais da área de dados que trabalham com produtos da Microsoft. 
 
 
-Para uma formação inicial em SQL, entender o T-SQL e suas capacidades é fundamental para aproveitar ao máximo o potencial do SQL Server e outras plataformas de base de dados que suportam essa linguagem.
+Para uma formação inicial em SQL, entender o T-SQL e as suas capacidades é fundamental para aproveitar ao máximo o potencial do SQL Server e outras plataformas de base de dados que suportam essa linguagem.
 
 
 <!-- ---  -->

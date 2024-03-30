@@ -41,7 +41,7 @@ A cláusula ON define a condição de correspondência entre as tabelas de orige
 Por exemplo, pode-se atualizar os dados na tabela de destino se eles correspondem aos da tabela de origem, ou inserir novos dados se não houver correspondência. É importante notar que o MERGE deve ser usado com cautela, pois a execução de múltiplas operações numa única instrução pode ser complexa e suscetível a erros se não for bem compreendida e cuidadosamente implementada. 
 
 
-Além disso, é essencial garantir que as condições de correspondência sejam corretas para evitar resultados inesperados. 
+Tem que garantir que as condições de correspondência sejam corretas para evitar resultados inesperados. 
 
 Em resumo, o MERGE é uma ferramenta versátil em T-SQL que, quando usada corretamente, pode simplificar e otimizar as operações de sincronização de dados entre tabelas.
 

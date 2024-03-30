@@ -9,9 +9,9 @@ parent: 'Joins'
 # RIGHT JOIN (ou RIGHT OUTER JOIN)
 {: .no_toc }
 
-Funciona de forma oposta ao LEFT JOIN; FULL JOIN (ou FULL OUTER JOIN) retorna linhas quando há uma correspondência em uma das tabelas.
+Funciona de forma oposta ao LEFT JOIN; FULL JOIN (ou FULL OUTER JOIN) retorna linhas quando há uma correspondência numa das tabelas.
 
-### RIGHT INCLUSIVE:
+## RIGHT INCLUSIVE:
 
 **Sintaxe**
 
@@ -23,7 +23,7 @@ ON tabelaA.nome_coluna = tabelaB.nome_coluna
 WHERE condition; 
 ```
 
-### RIGHT EXCLUSIVE
+## RIGHT EXCLUSIVE
 
 **Sintaxe**
 
