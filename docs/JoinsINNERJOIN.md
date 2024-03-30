@@ -2,7 +2,7 @@
 title: INNER JOIN 
 layout: default
 nav_order: 4.2
-has_children: false
+parent: 'Joins'
 ---
 
 

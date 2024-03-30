@@ -2,7 +2,7 @@
 title: CROSS JOIN 
 layout: default
 nav_order: 4.7
-has_children: false
+parent: 'Joins'
 ---
 
 

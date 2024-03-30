@@ -2,7 +2,7 @@
 title: Outer Joins
 layout: default
 nav_order: 4.3
-has_children: false
+parent: 'Joins'
 ---
 
 

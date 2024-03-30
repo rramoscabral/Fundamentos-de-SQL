@@ -2,7 +2,7 @@
 title: FULL OUTER
 layout: default
 nav_order: 4.4
-has_children: false
+parent: 'Joins'
 ---
 
 

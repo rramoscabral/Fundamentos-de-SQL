@@ -2,7 +2,7 @@
 layout: default
 title: DELETE Statement
 nav_order: 7.4
-has_children: false
+parent: 'Linguagem de manipulação de dados'
 ---
 
 

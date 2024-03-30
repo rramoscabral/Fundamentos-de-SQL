@@ -2,7 +2,7 @@
 title: Produto Cartesiano
 layout: default
 nav_order: 4.1
-has_children: false
+parent: 'Joins'
 ---
 
 # Produto Cartesiano

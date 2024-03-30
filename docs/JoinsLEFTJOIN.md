@@ -2,7 +2,7 @@
 title: LEFT JOIN (ou LEFT OUTER JOIN)
 layout: default
 nav_order: 4.5
-has_children: false
+parent: 'Joins'
 ---
 
 

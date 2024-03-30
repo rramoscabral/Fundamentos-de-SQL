@@ -2,7 +2,7 @@
 layout: default
 title: Tipo de dados númericos
 nav_order: 6.1
-has_children: false
+parent: 'Tipo de dados'
 ---
 
 
