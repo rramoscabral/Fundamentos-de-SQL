@@ -22,7 +22,7 @@ As funções de janela podem ser usadas para realizar cálculos agregados, como 
 
 A cláusula **OVER** é o que define a 'janela' sobre a qual a função opera, podendo incluir partições para dividir o conjunto de dados em segmentos menores para cálculos independentes.
 
-É importante notar que, embora as funções de janela sejam extremamente úteis, elas podem ser complexas e requernum entendimento claro de como e quando as utilizar para evitar resultados inesperados ou desempenho. Por isso, é recomendável praticar com exemplos reais e consultar documentação específica para garantir a correta aplicação dessas funções nas suas consultas SQL.
+É importante frizar que funções de janela sejam extremamente úteis, elas podem ser complexas e requernum entendimento claro de como e quando as utilizar para evitar resultados inesperados ou desempenho. Por isso, é recomendável praticar com exemplos reais e consultar documentação específica para garantir a correta aplicação dessas funções nas suas consultas SQL.
 <br>
 
 ---

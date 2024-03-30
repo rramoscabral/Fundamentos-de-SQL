@@ -78,7 +78,7 @@ Outra diferença significativa é a sintaxe para a paginação de resultados. O 
 
 O T-SQL tem a cláusula TOP, utilizada para limitar o número de linhas retornadas por uma consulta. No que diz respeito à manipulação de strings, o T-SQL oferece uma gama mais ampla de funções para a gestão de texto, como a função STRING_SPLIT, que facilita a divisão de uma string numa coluna baseada num delimitador específico.
 
-Em termos de desempenho, o T-SQL pode oferecer vantagens devido à sua integração estreita com o SQL Server, permitindo otimizações específicas do sistema que podem não estar disponíveis em outros sistemas de gestão de bases de dados. Por fim, é importante notar que, embora o T-SQL seja uma extensão do SQL padrão, ele segue a maioria dos princípios fundamentais do SQL, garantindo que os utilizadores com conhecimento em SQL padrão possam adaptar-se rapidamente ao T-SQL com um período de aprendizagem relativamente curto.
+Em termos de desempenho, o T-SQL pode oferecer vantagens devido à sua integração estreita com o SQL Server, permitindo otimizações específicas do sistema que podem não estar disponíveis em outros sistemas de gestão de bases de dados. Por fim, É importante frizar que, embora o T-SQL seja uma extensão do SQL padrão, ele segue a maioria dos princípios fundamentais do SQL, garantindo que os utilizadores com conhecimento em SQL padrão possam adaptar-se rapidamente ao T-SQL com um período de aprendizagem relativamente curto.
 
 
 ## Sistema de gestão de base de dados relacionais

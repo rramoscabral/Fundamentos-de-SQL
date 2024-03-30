@@ -46,7 +46,7 @@ Por exemplo, se tivermos uma tabela A com 3 linhas e uma tabela B com 4 linhas, 
 
 
 
-É importante notar que, embora o produto cartesiano possa ser útil em certos cenários, como na geração de dados para testes ou na combinação de conjuntos de dados independentes, ele pode também levar a resultados de grandes dimensões e potencialmente afetar o desempenho das consultas. Portanto, deve ser utilizado com cautela e compreensão clara do seu impacto na base de dados. Para evitar resultados indesejados e garantir que apenas as combinações relevantes sejam retornadas, é essencial utilizar condições de junção adequadas que especifiquem como as tabelas devem ser combinadas. 
+É importante frizar que, embora o produto cartesiano possa ser útil em certos cenários, como na geração de dados para testes ou na combinação de conjuntos de dados independentes, ele pode também levar a resultados de grandes dimensões e potencialmente afetar o desempenho das consultas. Portanto, deve ser utilizado com cautela e compreensão clara do seu impacto na base de dados. Para evitar resultados indesejados e garantir que apenas as combinações relevantes sejam retornadas, é essencial utilizar condições de junção adequadas que especifiquem como as tabelas devem ser combinadas. 
 
 Em resumo, o produto cartesiano é uma ferramenta poderosa no T-SQL quando usado corretamente, permitindo a manipulação flexível de conjuntos de dados dentro do Microsoft SQL Server.
 
