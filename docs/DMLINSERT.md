@@ -2,7 +2,6 @@
 layout: default
 title: Linguagem de manipulação de dados
 nav_order: 7.1
-has_children: true
 ---
 
 
