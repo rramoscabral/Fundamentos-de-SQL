@@ -1,12 +1,14 @@
 ---
-title: Layout
+title: LEFT JOIN (ou LEFT OUTER JOIN)
 layout: default
 nav_order: 4.5
+has_children: false
 ---
 
 
 
-# LEFT JOIN (ou LEFT OUTER JOIN) 
+# LEFT JOIN (ou LEFT OUTER JOIN)
+{: .no_toc }
 
 Retorna todas as linhas da tabela esquerda e as linhas correspondentes da tabela direita, ou NULL se não houver correspondência.
 

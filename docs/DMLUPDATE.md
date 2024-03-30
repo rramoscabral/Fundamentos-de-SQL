@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Linguagem de manipulação de dados
+title: INSERT Statement
 nav_order: 7.2
+has_children: false
 ---
 
 

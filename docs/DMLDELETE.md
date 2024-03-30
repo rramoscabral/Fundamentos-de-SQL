@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Linguagem de manipulação de dados
+title: DELETE Statement
 nav_order: 7.4
+has_children: false
 ---
 
 

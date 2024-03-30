@@ -2,6 +2,7 @@
 layout: default
 title: Base de dados
 nav_order: 2
+has_children: false
 ---
 
 # Base de dados

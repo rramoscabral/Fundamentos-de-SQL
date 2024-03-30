@@ -1,11 +1,12 @@
 ---
-title: Layout
+title: Produto Cartesiano
 layout: default
 nav_order: 4.1
 has_children: false
 ---
 
 # Produto Cartesiano
+{: .no_toc }
 
 O produto cartesiano, em termos de bases de dados, é um conceito matemático aplicado nas operações de junção de tabelas. No contexto do T-SQL, que é a linguagem de consulta do Microsoft SQL Server, o produto cartesiano é frequentemente associado ao operador CROSS JOIN. 
 

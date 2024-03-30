@@ -1,12 +1,14 @@
 ---
-title: Layout
+title: FULL OUTER
 layout: default
 nav_order: 4.4
+has_children: false
 ---
 
 
 
 # FULL OUTER
+{: .no_toc }
 
 O Full Outer Join combina as funcionalidades de ambos, retorna todos os registros quando há uma correspondência e preenchendo com NULL onde não há.
 

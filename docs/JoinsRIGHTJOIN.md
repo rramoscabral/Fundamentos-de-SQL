@@ -1,12 +1,13 @@
 ---
 title: Layout
-layout: default
+layout: RIGHT JOIN (ou RIGHT OUTER JOIN)
 nav_order: 4.6
-has_children: true
+has_children: false
 ---
 
 
-# RIGHT JOIN (ou RIGHT OUTER JOIN) 
+# RIGHT JOIN (ou RIGHT OUTER JOIN)
+{: .no_toc }
 
 Funciona de forma oposta ao LEFT JOIN; FULL JOIN (ou FULL OUTER JOIN) retorna linhas quando há uma correspondência em uma das tabelas.
 

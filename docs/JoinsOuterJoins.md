@@ -1,5 +1,5 @@
 ---
-title: Layout
+title: Outer Joins
 layout: default
 nav_order: 4.3
 has_children: false
@@ -7,6 +7,7 @@ has_children: false
 
 
 # Outer Joins
+{: .no_toc }
 
 Os Outer Joins são classificados principalmente em Left, Right e Full. 
 
