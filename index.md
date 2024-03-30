@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Introdução aos Fundamentos de SQL com Transact-SQL
 layout: home
 nav_order: 1
 ---
