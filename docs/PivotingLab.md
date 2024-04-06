@@ -49,7 +49,7 @@ Depois de concluir este laboratório, você será capaz de:
 1. Utilizado a consulta do **PIVOT** execute o **UNPIVOT** ordene por **Cliente**.
 
 
-1. Com operadores de agregação como o **SUM** é possível criar o mesmo resultado com o operador **PIVOT** mas requer mais lógica.
+1. Com operadores de agregação como o **SUM** é possível criar o mesmo resultado do operador **PIVOT** mas requer mais lógica.
 
     Experimente a seguinte consulta:
 
