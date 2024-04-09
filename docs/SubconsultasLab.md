@@ -12,7 +12,7 @@ parent: 'Subconsultas'
 <!-- Lab Scenario -->
 ## Cenário de laboratório
 
-Na empresa AdventureWorks é necessário consultar empregados com o nome do meio **R.** sem alterar nenhuma informação na base de dados. 
+Na empresa AdventureWorks é necessário consultar empregados com o nome do meio **R** sem alterar nenhuma informação na base de dados. 
 
 <!-- Objectives -->
 ## Objetivos
@@ -36,12 +36,14 @@ Depois de concluir este laboratório, você será capaz de:
 
 1. Utilize a base de dados AdventureWorks.
 
+
 1. Liste todos as pessoas da tabela **Person** no esquema **Person**.
+
 
 1. Liste todas as pessoas e utilize uma subconsulta independente ou subqueries self-contained em inglês que mostre todos as pessoas mesmo que contenha algum valor desconhecido (NULL) e ordene os resultados pelo primeiro nome por ordem ascendente.
 
 
-1. Rescreva a consulta anterior para pesquisar apenas empregados da tabela **Employee** no esquema **HumanResources** em que nome do meio seja **R.**.
+1. Rescreva a consulta anterior para pesquisar apenas empregados da tabela **Employee** no esquema **HumanResources** em que nome do meio seja **R**.
 
 
 1. Liste todos o histórico de pagamentos efetuados da tabela **EmployeePayHistory** no esquema **HumanResources**.
@@ -49,5 +51,6 @@ Depois de concluir este laboratório, você será capaz de:
 
 1. Ordene o menor pagamento efetuado da tabela **EmployeePayHistory** agrupado pela a identificação e rate.
 
-1. Adapte as consultas anteriores para visualizar os em que nome do meio seja **R.** e o menor valor recebido.
+
+1. Adapte as consultas anteriores para visualizar os em que nome do meio seja **R** e o menor valor recebido.
 
